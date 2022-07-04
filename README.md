@@ -3,3 +3,5 @@
 <span>- Desenvolvedor Júnior</span> :baby:
 
 [![ODansilva's GitHub stats](https://github-readme-stats.vercel.app/api?username=ODansilva&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/ODansilva/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ODansilva&layout=compact)](https://github.com/ODansilva/github-readme-stats)
