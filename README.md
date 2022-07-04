@@ -1,3 +1,3 @@
 ### Olá, sou Daniel Silva
-<span>- Analista de Redes e infraestrutura é</span><br/>
+<span>- Analista de Redes e infraestrutura</span><br/>
 <span>- Desenvolvedor Júnior</span>
