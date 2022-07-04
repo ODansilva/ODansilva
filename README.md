@@ -1,3 +1,3 @@
-### Olá, sou Daniel Silva
-<span>- Analista de Redes e infraestrutura</span><br/>
-<span>- Desenvolvedor Júnior</span>
+### Olá, sou Daniel Silva :wave:
+<span>- Analista de Redes e infraestrutura</span> :student:<br/>
+<span>- Desenvolvedor Júnior</span> :baby:
