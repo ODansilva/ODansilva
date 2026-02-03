@@ -21,6 +21,3 @@
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
-
-![snake gif](https://github.com/ODansilva/ODansilva/blob/output/github-contribution-grid-snake.svg)
-
